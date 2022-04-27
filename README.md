@@ -1,5 +1,7 @@
 # project flexbox DIO
 
+![alt text](print.png)
+
 Esse projeto foi meu primeiro, feito todo com passo a passo do tudorial, em diversos pontos tive que voltar para identificar o que estava acontecendo, alguns pontos ajustados sozinho, outros ajustado com o passo a passo.
 
 CSS3 esta bem claro e facil de entender ajustar fiz diversos pontos de ajuste sozinho
